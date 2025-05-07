@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hjfhjrncv  
+- 👋 Hi, I’m @amanthaband 
 - 👀 I’m interested in competitive programming, full-stack web development 
 - 🌱 I’m currently learning data structures, algorithms, and c++  
 - 💞️ I’m looking to collaborate on open-source projects and coding challenges  
